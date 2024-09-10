@@ -39,6 +39,7 @@ namespace ProjectDataAPI.Controllers
         //public void Delete(int id)
         //{
         //
+        //test branch
         [HttpGet]
         [Route("api/QLSP/danhsachsanpham")]
         public object Getsanpham(string Id = null)
